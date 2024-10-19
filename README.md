@@ -9,8 +9,7 @@ Install:
 `go mod tidy`
 4. Build the program:
 `go mod build`
-Run:
-1. To run the api:
+5. To run the api:
 `go run main.go`
 
 API endpoints:
