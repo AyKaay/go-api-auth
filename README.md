@@ -2,16 +2,16 @@
 API that allows for user registration, login, and transaction management. Built using Go and the Gin framework, it provides a simple and secure way to manage user accounts and transactions.
 
 Install:
-    1. Navigate to the project root directory
-    2. Initialize the modules:
-        `go mod init`
-    3. Install dependencies:
-        `go mod tidy`
-    4. Build the program:
-        `go mod build`
+    - 1. Navigate to the project root directory
+    - 2. Initialize the modules:
+        - `go mod init`
+    - 3. Install dependencies:
+        - `go mod tidy`
+    - 4. Build the program:
+        - `go mod build`
 Run:
     1. To run the api:
-        `go run main.go`
+        - `go run main.go`
 
 API endpoints:
 1. Register/Signup new user
