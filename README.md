@@ -1,5 +1,4 @@
-**User Authentication API**
-API that allows for user registration, login, and transaction management. Built using Go and the Gin framework, it provides a simple and secure way to manage user accounts and transactions.
+API that allows for user registration, login, logout, and transaction management. Built using Go and the Gin framework.
 
 Install:
 1. Navigate to the project root directory
