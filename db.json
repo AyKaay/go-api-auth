@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "b6a51e6e-1c61-4d77-8894-7866f13c469f",
+      "username": "john_doe",
+      "password": "$2a$12$PpOp4Z1eyPEkVZ6EnJ98DOIc5nWo6O7FOr3EZgh9X4E2P.DNDHPSy",
+      "created_at": "2024-01-01T10:00:00Z",
+      "updated_at": "2024-01-01T10:00:00Z"
+    },
+    {
+      "id": "a7b3456f-4d85-4cd4-b6de-82f28d6c28f3",
+      "username": "jane_doe",
+      "password": "$2a$12$gGV57Os7GQaI94xXEtZWbuqRDuoQ3aGqPvKQFynQsefgfrSppbn.K",
+      "created_at": "2024-02-15T09:30:00Z",
+      "updated_at": "2024-02-15T09:30:00Z"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "username": "5",
+      "password": "$2a$10$VBH39nyqH/KZm1tZ7wQlreqeBNUDU0.YHsPYMS31UUCyTly3ZRm/K",
+      "created_at": "0001-01-01T00:00:00Z",
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "username": "4",
+      "password": "$2a$10$hvpwACNTfzUIVU9FahIAvu6B2AJBlexB9ZY6bBBXPxYzkfXvmC1/W",
+      "created_at": "0001-01-01T00:00:00Z",
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "username": "3",
+      "password": "$2a$10$JqVP7j4DBSS41v6x6M2QEuLnrnEMKzb.ohu/r/EnvQ6gNTAsj8YHu",
+      "created_at": "0001-01-01T00:00:00Z",
+      "updated_at": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "username": "2",
+      "password": "$2a$10$xrjK.ed/aejZJ2I555eOzu2nUc7Dr/vfp//FegQI6ceYOKd0zCcmi",
+      "created_at": "0001-01-01T00:00:00Z",
+      "updated_at": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "transactions": []
+}
